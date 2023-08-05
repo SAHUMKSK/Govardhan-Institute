@@ -1,2 +1,2 @@
 # Govardhan-Institute
-All the project questions.
+All the python project will be here.
